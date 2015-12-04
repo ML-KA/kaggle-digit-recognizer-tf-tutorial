@@ -58,3 +58,5 @@ target/
 
 # ignore data
 MNIST_data/
+
+*.csv
